@@ -1,5 +1,71 @@
-# 💫 About Me:
-👨‍💻 I’m currently working on<br>Building AI-powered web applications and real-world problem-solving projects using Node.js, Express, and MySQL.<br><br>🤝 I’m looking to collaborate on<br>Innovative AI projects, web development ideas, and solutions that solve real-life problems.<br><br>🆘 I’m looking for help with<br>Advanced JavaScript, backend optimization, and AI integration in real-world applications.<br><br>🌱 I’m currently learning<br>JavaScript, backend development, AI/ML concepts, and Power BI.<br><br>💬 Ask me about<br>Web development, AI ideas, and building real-world projects.<br><br>🚀 Projects<br><br>E-commerce Website (fully functional)<br>Spotify Clone (HTML & CSS)<br>YouTube Clone (HTML & CSS)<br>Car Rental System Website<br>Smart Watering System (innovation project)<br><br>📊 Coding Stats<br><br>Solved 300+ problems on GFG<br>Solved 85+ problems on LeetCode<br><br>⚡ Fun fact<br>I love turning real-life problems into smart tech solutions 🚀
+# 👋 Hi, I'm Dipesh Padole
+
+## 👨‍💻 MERN Stack Developer  
+I’m passionate about building **AI-powered web applications** and solving real-world problems using modern technologies like **MongoDB, Express.js, React.js, and Node.js**.
+
+---
+
+## 🚀 What I’m Working On
+- Building scalable web applications  
+- Integrating AI features into real-world projects  
+- Working with Node.js, Express, MongoDB & MySQL  
+
+---
+
+## 🤝 Looking to Collaborate On
+- AI-based projects 🤖  
+- Full Stack Web Development ideas  
+- Real-world problem-solving solutions  
+
+---
+
+## 🆘 Looking for Help With
+- Advanced JavaScript  
+- Backend optimization  
+- AI integration in real applications  
+
+---
+
+## 🌱 Currently Learning
+- Advanced JavaScript  
+- Backend Development  
+- AI/ML Concepts  
+- Power BI  
+
+---
+
+## 💬 Ask Me About
+- MERN Stack Development  
+- Web Projects  
+- Real-world tech solutions  
+
+---
+
+## 🚀 Projects
+- 🛒 E-commerce Website (Fully Functional)  
+- 🎵 Spotify Clone (HTML & CSS)  
+- 📺 YouTube Clone (HTML & CSS)  
+- 🚗 Car Rental System Website  
+- 🌱 Smart Watering System (Innovation Project)  
+- 🏙️ Smart City Planner (Nagpur)  
+
+---
+
+## 📊 Coding Stats
+- ✅ Solved 300+ problems on GFG  
+- ✅ Solved 85+ problems on LeetCode  
+
+---
+
+## ⚡ Fun Fact
+I love turning real-life problems into **smart tech solutions** 🚀  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: dipeshpadole3@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/dipesh-padole-358932339  
+- 💻 GitHub: https://github.com/dipeshpadole786
 
 
 ## 🌐 Socials:
