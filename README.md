@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm Dipesh</h1>
 <h3 align="center">AI & Data Science Student | MERN Developer | Full Stack Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipeshpadole786&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshpadole786" />
-</p>
+
 
 ---
 
