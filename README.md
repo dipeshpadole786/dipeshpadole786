@@ -3,7 +3,7 @@
 ## 👨‍💻 MERN Stack Developer  
 I’m passionate about building **AI-powered web applications** and solving real-world problems using modern technologies like **MongoDB, Express.js, React.js, and Node.js**.
 
----
+--- .. 
 
 ## 🚀 What I’m Working On
 - Building scalable web applications  
